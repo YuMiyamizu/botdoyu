@@ -8,7 +8,7 @@ Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 ```bash
 pkg install git
 pkg install python
-git clone https://github.com/yuhdatan/yubot.git
+git clone https://github.com/YuMiyamizu/botdoyu.git
 cd botdoyu
 python3 -m pip install requests
 python3 bot.py
